@@ -6,24 +6,23 @@ I'm **Seojin**, passionate about **UX/UI Design** and **Frontend Development**.
 
 ### 🎓 Education
 
-- **Sogang University**  
-  - 2020.02 ~   
-  - European Languages and Cultures
-  - Computer Science and Engineering
+- **Sogang University (2020.02-)**
+   
+  - European Languages and Cultures & Computer Science and Engineering
 
 ---
 
 ### 💻 Skills
 
 - **Programming Languages**:  
-  - Python 🐍  
-  - C 🖥️  
-  - JavaScript 🌐
+  - Python   
+  - C  
+  - JavaScript 
     
 - **Design Tools**:  
-  - Photoshop
-  - Figma
-  - Adobe XD
+  - Photoshop 🎨
+  - Figma 🖌️
+  - Adobe XD 🖥️
 
 ---
 
