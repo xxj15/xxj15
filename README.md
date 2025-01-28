@@ -25,9 +25,9 @@
 ### 👨‍💼 Experience
 
 - **Likelion Sogang 8th** (2020.03 - 2020.12)  
-- **Chaekhwajeom Service** (Design/Frontend) (2020.07 - 2020.12)  
-- **Likelion Sogang 9th Executive Member** (2021.01 - 2021.12)  
-- **SG RECS Website** (Frontend) (2021.01 - 2021.02)  
+- **Chaekhwajeom Service** (Design/Frontend) (2020.07 - 2020.12)
+- **SG RECS Website** (Frontend) (2021.01 - 2021.02) 
+- **Likelion Sogang 9th Executive Member** (2021.01 - 2021.12)   
 - **Moonsunpower Project** (Design/Frontend) (2024.09 - Present)
 
 ---
