@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-I'm **Seojin**, passionate about **UX/UI Design** and **Frontend Development**.  
-
----
-
 ### 🎓 Education
 
 - **Sogang University (2020.02-)**
