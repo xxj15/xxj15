@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=fadadd&height=200&section=header&text=🔥%20xxj15's%20Github%20⚡&fontSize=50&fontColor=333333&animation=fadeIn&fontAlignY=40)
+
 ## Hi there 👋
 
 ### 🎓 Education 
@@ -50,8 +52,9 @@
 
 
 ### 🚀 Current Focus
-- 🔧 Mastering **UX/UI Design** to create seamless user experiences  
-- 📚 Gaining a comprehensive understanding of **JavaScript** and **React.js**  
+- 🔥 Passionate about **Frontend & Web Development**
+- 📚 Gaining a comprehensive understanding of **JavaScript** and **React.js**
+- 🔧 Mastering **UX/UI Design** to create seamless user experiences    
 - 🌐 Enhancing problem-solving skills through **algorithm studies**  
 
 ---
@@ -59,3 +62,5 @@
 ### 📬 Contact Me
 
 📧 Email: [seojini00@sogang.ac.kr](mailto:seojini00@sogang.ac.kr)  
+
+![footer](https://capsule-render.vercel.app/api?type=venom&color=fadadd&height=120&section=footer)
