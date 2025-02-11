@@ -62,5 +62,6 @@
 ### 📬 Contact Me
 
 📧 Email: [seojini00@sogang.ac.kr](mailto:seojini00@sogang.ac.kr)  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=fadadd&height=80&section=footer)
 
-![footer](https://capsule-render.vercel.app/api?type=venom&color=fadadd&height=120&section=footer)
+
