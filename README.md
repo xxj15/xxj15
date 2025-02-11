@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxj15)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxj15&layout=compact&theme=dracula)
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://jinnni00.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://jinnni00.tistory.com/) <br/>
+![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxj15)  
 ---
 ### 🎓 Education & 👨‍💼 Experience
 
