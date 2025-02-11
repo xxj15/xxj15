@@ -1,13 +1,11 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxj15&layout=compact&theme=dracula)
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://jinnni00.tistory.com/) <br/>
-![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxj15)  
----
-### 🎓 Education & 👨‍💼 Experience
+### 🎓 Education 
 
 - **Sogang University (2020.02 - Present)**
   - European Languages and Cultures & Computer Science and Engineering
+
+### 👨‍💼 Experience
 - **Likelion Sogang 8th** (2020.03 - 2020.12)  
 - **Chaekhwajeom Service (Design/Frontend)** (2020.07 - 2020.12)  
 - **SG RECS Website (Frontend)** (2021.01 - 2021.02)  
