@@ -13,7 +13,6 @@
 - **SG RECS Website (Frontend)** (2021.01 - 2021.02)  
 - **Likelion Sogang 9th Executive Member** (2021.01 - 2021.12)  
 - **[MoonSunPower](https://moonsunpower.com/) Project (Design/Frontend) (2024.09 - Present)** / [Github](https://github.com/MSP-MoonSunPower/MoonSunPower)
-- **Mash-Up 15th Web Team** (2025.03-2025.08) 
  
 ---
 ### 💻 Skills
