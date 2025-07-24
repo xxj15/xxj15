@@ -12,7 +12,8 @@
 - **Chaekhwajeom Service (Design/Frontend)** (2020.07 - 2020.12)  
 - **SG RECS Website (Frontend)** (2021.01 - 2021.02)  
 - **Likelion Sogang 9th Executive Member** (2021.01 - 2021.12)  
-- **[MoonSunPower](https://moonsunpower.com/) Project (Design/Frontend) (2024.09 - Present)** / [Github](https://github.com/MSP-MoonSunPower/MoonSunPower)
+- **[MoonSunPower](https://moonsunpower.com/) Project (Design/Frontend)** (2024.09 - Present) / [Github](https://github.com/MSP-MoonSunPower/MoonSunPower)
+- **연합 IT 동아리 Mash-UP 15기 Web팀** (2025.03 -) 
  
 ---
 ### 💻 Skills
