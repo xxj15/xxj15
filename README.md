@@ -15,6 +15,8 @@
 - **문해력 향상 학습 프로그램 [MoonSunPower](https://moonsunpower.com/) (Design/Frontend)** (2024.09 - Present) / [Github](https://github.com/MSP-MoonSunPower/MoonSunPower)
 - **연합 IT 동아리 Mash-UP 15기 Web팀** (2025.03 - 2025.08)
 - **개발자들의 회고를 도와주는 서비스 [Dev-Oops](https://dev-oops.kr/landing?error=unauthorized) (Frontend)** (2025.04 - Present) / [Github](https://github.com/mash-up-kr/devoops-web)
+- **LG WebOS 기반 가족 소통 앱 Weavers (Design/Frontend)** (2025.09 – 2025.11) / [Github](https://github.com/LGE-Univ-Sogang/2025_sogang_4_weavers)
+
  
 ---
 ### 💻 Skills
