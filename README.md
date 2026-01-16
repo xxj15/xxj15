@@ -4,7 +4,7 @@
 
 ### 🎓 Education 
 
-- **Sogang University (2020.02 - Present)**
+- **Sogang University (2020.02 - 2026.02)**
   - European Languages and Cultures & Computer Science and Engineering
 
 ### 👨‍💼 Experience
