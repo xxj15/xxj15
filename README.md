@@ -12,9 +12,9 @@
 - **위치 기반 도서 공유 서비스 '책화점' (Design/Frontend)** (2020.07 - 2020.12)  
 - **서강대학교 부동산 금융 학회 RECS 사이트 (Frontend)** (2021.01 - 2021.02)  
 - **서강대학교 멋쟁이 사자처럼 9기 운영진** (2021.01 - 2021.12)  
-- **문해력 향상 학습 프로그램 [MoonSunPower](https://moonsunpower.com/) (Design/Frontend)** (2024.09 - Present) / [Github](https://github.com/MSP-MoonSunPower/MoonSunPower)
+- **문해력 향상 학습 프로그램 [MoonSunPower](https://moonsunpower.com/) (Design/Frontend)** (2024.09 - 2025.09 ) / [Github](https://github.com/MSP-MoonSunPower/MoonSunPower)
 - **연합 IT 동아리 Mash-UP 15기 Web팀** (2025.03 - 2025.08)
-- **개발자들의 회고를 도와주는 서비스 [Dev-Oops](https://dev-oops.kr/landing?error=unauthorized) (Frontend)** (2025.04 - Present) / [Github](https://github.com/mash-up-kr/devoops-web)
+- **개발자들의 회고를 도와주는 서비스 [Dev-Oops](https://dev-oops.kr/landing?error=unauthorized) (Frontend)** (2025.04 - 2025.10 ) / [Github](https://github.com/mash-up-kr/devoops-web)
 - **LG WebOS 기반 가족 소통 앱 Weavers (Design/Frontend)** (2025.09 – 2025.11) / [Github](https://github.com/LGE-Univ-Sogang/2025_sogang_4_weavers)
 
  
