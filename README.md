@@ -4,8 +4,8 @@
 
 ### 🎓 Education 
 
-- **Sogang University (2020.02 - 2026.02)**
-  - European Languages and Cultures & Computer Science and Engineering
+- **서강대학교 유럽문화학과(독일어 심화) & 컴퓨터공학 전공** (2020.02 - 2026.02)
+- **삼성청년SW아카데미 (SSAFY) 15기** (2026.01 - )
 
 ### 👨‍💼 Experience
 - **서강대학교 멋쟁이 사자처럼 8기** (2020.03 - 2020.12)  
@@ -34,6 +34,7 @@
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
