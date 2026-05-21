@@ -16,6 +16,7 @@
 - **연합 IT 동아리 Mash-UP 15기 Web팀** (2025.03 - 2025.08)
 - **개발자들의 회고를 도와주는 서비스 [Dev-Oops](https://dev-oops.kr/landing?error=unauthorized) (Frontend)** (2025.04 - 2025.10 ) / [Github](https://github.com/mash-up-kr/devoops-web)
 - **LG WebOS 기반 가족 소통 앱 Weavers (Design/Frontend)** (2025.09 – 2025.11) / [Github](https://github.com/LGE-Univ-Sogang/2025_sogang_4_weavers)
+- **[Boogle](https://boogle.my) - 신촌·홍대 카공 카페 큐레이션 서비스 (Design/Frontend)** (2026.01 – Present) / [Github]([https://boogle.my](https://github.com/CafeBoogle/boogle-frontend))
 
  
 ---
