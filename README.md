@@ -46,8 +46,8 @@
 | `2021.01 – 2021.02` | 서강대학교 부동산 금융 학회 **RECS** 사이트 | FE | — |
 | `2024.09 – 2025.09` | 문해력 향상 학습 프로그램 **MoonSunPower** | Design / FE | [🔗 site](https://moonsunpower.com/) · [🐱 github](https://github.com/MSP-MoonSunPower/MoonSunPower) |
 | `2025.04 – 2025.10` | 개발자 회고 서비스 **Dev-Oops** | FE | [🔗 site](https://dev-oops.kr/landing?error=unauthorized) · [🐱 github](https://github.com/mash-up-kr/devoops-web) |
-| `2025.09 – 2025.11` | LG WebOS 기반 가족 소통 앱 **Weavers** | Design / FE | [🐱 github](https://github.com/LGE-Univ-Sogang/2025_sogang_4_weavers) |
-| `2026.01 –` | 신촌·홍대 카공 카페 큐레이션 **Boogle** | Design / FE | [🔗 site](https://boogle.my) · [🐱 github](https://github.com/CafeBoogle/boogle-frontend) |
+| `2025.09 – 2025.11` | LG WebOS 기반 가족 소통 앱 **Moa** | Design / FE | [🐱 github](https://github.com/LGE-Univ-Sogang/2025_sogang_4_weavers) |
+| `2026.01 –` | 신촌·홍대 카공 카페 큐레이션 서비스 **Boogle** | Design / FE | [🔗 site](https://boogle.my) · [🐱 github](https://github.com/CafeBoogle/boogle-frontend) |
 
 </div>
 
