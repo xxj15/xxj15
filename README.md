@@ -9,6 +9,7 @@
 <br/><br/>
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@xxj15/posts)
+[![Portfolio](https://img.shields.io/badge/📄_Portfolio-8B5CF6?style=for-the-badge)](https://raw.githubusercontent.com/xxj15/anseojin-portfolio/main/portfolio.pdf)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seojini00@naver.com)
 
 </div>
