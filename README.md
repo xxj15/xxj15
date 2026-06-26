@@ -48,6 +48,7 @@
 | `2025.04 – 2025.10` | 개발자 회고 서비스 **Dev-Oops** | FE | [🔗 site](https://dev-oops.kr/landing?error=unauthorized) · [🐱 github](https://github.com/mash-up-kr/devoops-web) |
 | `2025.09 – 2025.11` | LG WebOS 기반 가족 소통 앱 **Moa** | Design / FE | [🐱 github](https://github.com/LGE-Univ-Sogang/2025_sogang_4_weavers) |
 | `2026.01 –` | 신촌·홍대 카공 카페 큐레이션 서비스 **Boogle** | Design / FE | [🔗 site](https://boogle.my) · [🐱 github](https://github.com/CafeBoogle/boogle-frontend) |
+| `2026.05 –` | 사회초년생을 위한 예·적금 추천 서비스 **OURWISH** | Design / FE | [🔗 site](https://our-wish.site/) · [🐱 github](https://github.com/Our-Wish/ourwish.git) |
 
 </div>
 
