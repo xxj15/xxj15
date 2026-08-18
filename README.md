@@ -24,41 +24,17 @@
 
 | 기간 | 내용 |
 |:---:|:---|
-| `2020.02 – 2026.02` | 서강대학교 **유럽문화학과 (독일어 심화) & 컴퓨터공학** |
-| `2026.01 –` | 삼성청년SW아카데미 **SSAFY 15기** |
+| `2020.02 – 2026.02` | 서강대학교 유럽문화학과 (독일어 심화) & 컴퓨터공학 |
+| `2026.01 – 2026.12` | 삼성청년SW아카데미 **SSAFY 15기** |
 | `2025.03 – 2025.08` | 연합 IT 동아리 **Mash-UP 15기** Web팀 |
 | `2021.01 – 2021.12` | 서강대학교 멋쟁이사자처럼 **9기 운영진** |
 | `2020.03 – 2020.12` | 서강대학교 멋쟁이사자처럼 **8기** |
 
-
-</div>
-
-<br/>
-
-
----
-
-## 🚀 Projects
-
-<div align="center">
-
-| 기간 | 프로젝트 | 역할 | 링크 |
-|:---:|:---:|:---:|:---:|
-| `2026.07 – 2026.08` | AR 원격 하자 검수로 임대차 분쟁을 예방하는 월세 관리 서비스 **방긋** | 기획 / Design / FE (Web, Mobile) | [🔗 site](https://www.banggoot.com/) |
-| `2026.05 –` | 사회초년생을 위한 예·적금 추천 서비스 **OURWISH** | Design / FE | [🔗 site](https://our-wish.site/) · [🐱 github](https://github.com/Our-Wish/ourwish.git) |
-| `2026.01 –` | 신촌·홍대 카공 카페 큐레이션 서비스 **Boogle** | Design / FE | [🔗 site](https://boogle.my) · [🐱 github](https://github.com/CafeBoogle/boogle-frontend) |
-| `2025.09 – 2025.11` | LG WebOS 기반 가족 소통 앱 **Moa** | Design / FE | [🐱 github](https://github.com/LGE-Univ-Sogang/2025_sogang_4_weavers) |
-| `2025.04 – 2025.10` | 개발자 회고 서비스 **Dev-Oops** | FE | [🔗 site](https://dev-oops.kr/landing?error=unauthorized) · [🐱 github](https://github.com/mash-up-kr/devoops-web) |
-| `2024.09 – 2025.09` | 문해력 향상 학습 프로그램 **MoonSunPower** | Design / FE | [🔗 site](https://moonsunpower.com/) · [🐱 github](https://github.com/MSP-MoonSunPower/MoonSunPower) |
-| `2021.01 – 2021.02` | 서강대학교 부동산 금융 학회 **RECS** 사이트 | FE | — |
-| `2020.07 – 2020.12` | 위치 기반 도서 공유 서비스 **책화점** | Design / FE | — |
-
 </div>
 
 <br/>
 
 ---
-
 
 ## 🏆 Awards
 
@@ -72,6 +48,27 @@
 | `2024.12` | 서강 융합기술 경진대회 **특별상 (인기상)** |
 | `2021.12` | 2021 서강이 만들어가는 세상 UNTACT **3위** |
 | `2020.12` | 2020 서강 온라인 창업 아이디어톤 **우수상** |
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+| 기간 | 내용 |
+|:---:|:---|
+| `2026.07 – 2026.08` | AR 원격 하자 검수로 임대차 분쟁을 예방하는 월세 관리 서비스, **'[방긋](https://www.banggoot.com/)'** (Design/FE) |
+| `2026.05 – 2026.06` | 사회초년생을 위한 예·적금 추천 서비스, **'[OURWISH](https://our-wish.site/)'** (Design/FE) |
+| `2026.01 –` | 신촌·홍대 카공 카페 큐레이션 서비스, **'[Boogle](https://boogle.my)'** (Design/FE) |
+| `2025.09 – 2025.11` | LG WebOS 기반 가족 소통 앱, **'[Moa](https://github.com/LGE-Univ-Sogang/2025_sogang_4_weavers)'** (Design/FE) |
+| `2025.04 – 2025.10` | 개발자 회고 서비스, **'[Dev-Oops](https://github.com/mash-up-kr/devoops-web)'** (FE) |
+| `2024.09 – 2025.09` | 문해력 향상 학습 프로그램, **'[MoonSunPower](https://moonsunpower.com/)'** (Design/FE) |
+| `2021.01 – 2021.02` | 서강대학교 부동산 금융 학회 사이트, **'RECS'** (Design/FE) |
+| `2020.07 – 2020.12` | 위치 기반 도서 공유 서비스, **'책화점'** (Design/FE) |
 
 </div>
 
@@ -103,13 +100,12 @@
     <td valign="top"><b>Others</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-
-
-            <img src="https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=googlear&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=googlear&logoColor=white" />
       <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
     </td>
   </tr>
