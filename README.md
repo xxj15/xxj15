@@ -8,9 +8,13 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/📄_Portfolio-8B5CF6?style=for-the-badge)](https://raw.githubusercontent.com/xxj15/anseojin-portfolio/main/anseojin-portfolio.pdf)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@xxj15/posts)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seojini00@naver.com)
+<a href="https://raw.githubusercontent.com/xxj15/anseojin-portfolio/main/anseojin-portfolio.pdf">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-DOWNLOAD-7C3AED?style=for-the-badge&labelColor=111827"
+    height="44"
+    alt="Portfolio Download"
+  />
+</a>
 
 </div>
 
@@ -25,16 +29,14 @@
 | 기간 | 내용 |
 |:---:|:---|
 | `2020.02 – 2026.02` | 서강대학교 유럽문화학과 (독일어 심화) & 컴퓨터공학 |
-| `2026.01 – 2026.12` | 삼성청년SW아카데미 **SSAFY 15기** |
-| `2025.03 – 2025.08` | 연합 IT 동아리 **Mash-UP 15기** Web팀 |
-| `2021.01 – 2021.12` | 서강대학교 멋쟁이사자처럼 **9기 운영진** |
-| `2020.03 – 2020.12` | 서강대학교 멋쟁이사자처럼 **8기** |
+| `2026.01 – 2026.12` | 삼성청년SW·AI아카데미 **SSAFY 15기** |
+| `2025.03 – 2025.08` | 연합 IT 동아리 **Mash-Up 15기 Web팀** |
+| `2021.03 – 2022.02` | 서강대학교 멋쟁이사자처럼 **9기 운영진 · 교육팀** |
+| `2020.03 – 2021.02` | 서강대학교 멋쟁이사자처럼 **8기** |
 
 </div>
 
 <br/>
-
----
 
 ## 🏆 Awards
 
@@ -43,7 +45,7 @@
 | 수상일 | 수상 내용 |
 |:---:|:---|
 | `2026.08` | SSAFY 15기 2학기 공통 프로젝트 **최우수상 (1위)** |
-| `2026.07` | SSAFY 1학기 관통 프로젝트 **최우수상 (1위)** |
+| `2026.06` | SSAFY 1학기 관통 프로젝트 **최우수상 (1위)** |
 | `2024.12` | 서강 융합기술 경진대회 **특별상 (AI/SW상)** |
 | `2024.12` | 서강 융합기술 경진대회 **특별상 (인기상)** |
 | `2021.12` | 2021 서강이 만들어가는 세상 UNTACT **3위** |
@@ -53,28 +55,24 @@
 
 <br/>
 
----
-
 ## 🚀 Projects
 
 <div align="center">
 
 | 기간 | 내용 |
 |:---:|:---|
-| `2026.07 – 2026.08` | AR 원격 하자 검수로 임대차 분쟁을 예방하는 월세 관리 서비스, **'[방긋](https://www.banggoot.com/)'** (Design/FE) |
-| `2026.05 – 2026.06` | 사회초년생을 위한 예·적금 추천 서비스, **'[OURWISH](https://our-wish.site/)'** (Design/FE) |
-| `2026.01 –` | 신촌·홍대 카공 카페 큐레이션 서비스, **'[Boogle](https://boogle.my)'** (Design/FE) |
-| `2025.09 – 2025.11` | LG WebOS 기반 가족 소통 앱, **'[Moa](https://github.com/LGE-Univ-Sogang/2025_sogang_4_weavers)'** (Design/FE) |
-| `2025.04 – 2025.10` | 개발자 회고 서비스, **'[Dev-Oops](https://github.com/mash-up-kr/devoops-web)'** (FE) |
-| `2024.09 – 2025.09` | 문해력 향상 학습 프로그램, **'[MoonSunPower](https://moonsunpower.com/)'** (Design/FE) |
-| `2021.01 – 2021.02` | 서강대학교 부동산 금융 학회 사이트, **'RECS'** (Design/FE) |
-| `2020.07 – 2020.12` | 위치 기반 도서 공유 서비스, **'책화점'** (Design/FE) |
+| `2026.07 – 2026.08` | AR 원격 하자 검수로 임대차 분쟁을 예방하는 월세 관리 서비스, **[방긋](https://www.banggoot.com/)** `(Design / FE)` |
+| `2026.05 – 2026.06` | 사회초년생을 위한 예·적금 추천 서비스, **[OURWISH](https://our-wish.site/)** `(Design / FE)` |
+| `2026.01 – 2026.07` | 신촌·홍대 카공 카페 큐레이션 서비스, **[Boogle](https://boogle.my)** `(Design / FE)` |
+| `2025.09 – 2025.11` | LG webOS 기반 가족 소통 서비스, **[Moa](https://github.com/LGE-Univ-Sogang/2025_sogang_4_weavers)** `(Design / FE)` |
+| `2025.04 – 2025.10` | PR 기반 질문 생성 개발자 회고 서비스, **[DevOops](https://github.com/mash-up-kr/devoops-web)** `(FE)` |
+| `2024.09 – 2025.09` | 생성형 AI 기반 문해력 향상 학습 서비스, **[MoonSunPower](https://moonsunpower.com/)** `(Design / FE)` |
+| `2021.01 – 2021.02` | 서강대학교 부동산 금융 학회 사이트, **RECS** `(Design / FE)` |
+| `2020.07 – 2020.12` | 위치 기반 도서 공유 서비스, **책화점** `(Design / FE)` |
 
 </div>
 
 <br/>
-
----
 
 ## 🛠 Tech Stack
 
@@ -83,30 +81,37 @@
     <td valign="top"><b>Frontend</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" />
     </td>
   </tr>
 
   <tr>
-    <td valign="top"><b>Others</b></td>
+    <td valign="top"><b>App /<br/>Real-time</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+      <img src="https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top"><b>Backend /<br/>Languages</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=googlear&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
     </td>
   </tr>
 
@@ -114,8 +119,8 @@
     <td valign="top"><b>Design &<br/>Collaboration</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -123,4 +128,22 @@
       <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
     </td>
   </tr>
+
+  <tr>
+    <td valign="top"><b>AI / Platform</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
 </table>
+
+<br/><br/>
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=100&section=footer"
+/>
+
+</div>
