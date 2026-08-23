@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://raw.githubusercontent.com/xxj15/anseojin-portfolio/main/anseojin-portfolio.pdf">
+<a href="https://github.com/xxj15/anseojin-portfolio/raw/refs/heads/main/anseojin-portfolio.pdf">
   <img
     src="https://img.shields.io/badge/PORTFOLIO-DOWNLOAD-7C3AED?style=for-the-badge&labelColor=111827"
     height="44"
