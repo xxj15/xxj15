@@ -135,8 +135,6 @@
 
 <br/><br/>
 
-<br/><br/>
-
 <div align="center">
 
 <img
