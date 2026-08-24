@@ -61,9 +61,9 @@
 
 | 기간 | 내용 |
 |:---:|:---|
-| `2026.07 – 2026.08` | AR 원격 하자 검수로 임대차 분쟁을 예방하는 월세 관리 서비스, **[방긋](https://www.banggoot.com/)** `(Design / FE)` |
-| `2026.05 – 2026.06` | 사회초년생을 위한 예·적금 추천 서비스, **[OURWISH](https://our-wish.site/)** `(Design / FE)` |
-| `2026.01 – 2026.07` | 신촌·홍대 카공 카페 큐레이션 서비스, **[Boogle](https://boogle.my)** `(Design / FE)` |
+| `2026.07 – 2026.08` | AR 원격 하자 검수로 임대차 분쟁을 예방하는 월세 관리 서비스, **[방긋](https://www.banggoot.com/) [Github](https://github.com/CafeBoogle/boogle-frontend)**  `(Design / FE)` |
+| `2026.05 – 2026.06` | 사회초년생을 위한 예·적금 추천 서비스, **[OURWISH](https://our-wish.site/) [Github](https://github.com/Our-Wish/ourwish)** `(Design / FE)` |
+| `2026.01 – 2026.07` | 신촌·홍대 카공 카페 큐레이션 서비스, **[Boogle](https://boogle.my) [Github](https://github.com/CafeBoogle/boogle-frontend)** `(Design / FE)` |
 | `2025.09 – 2025.11` | LG webOS 기반 가족 소통 서비스, **[Moa](https://github.com/xxj15/moa-showcase)** `(Design / FE)` |
 | `2025.04 – 2025.10` | PR 기반 질문 생성 개발자 회고 서비스, **[DevOops](https://github.com/mash-up-kr/devoops-web)** `(FE)` |
 | `2024.09 – 2025.09` | 생성형 AI 기반 문해력 향상 학습 서비스, **[MoonSunPower](https://github.com/xxj15/msp-frontend)** `(Design / FE)` |
