@@ -53,6 +53,8 @@
 | `2024.09 – 2025.09` | 생성형 AI 기반 문해력 향상 학습 서비스, **[MoonSunPower](https://github.com/xxj15/msp-frontend)** `(Design / FE)` |
 | `2021.01 – 2021.02` | 서강대학교 부동산 금융 학회 사이트, **RECS** `(Design / FE)` |
 | `2020.07 – 2020.12` | 위치 기반 도서 공유 서비스, **책화점** `(Design / FE)` |
+| `2026.08` | 매일 금융 상식과 주요 경제 이슈를 학습하는 데일리 브리핑 서비스, **[DailyTick](https://dailyticknews.vercel.app/)** `개인프로젝트` |
+
 
 </div>
 
