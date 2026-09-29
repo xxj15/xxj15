@@ -45,7 +45,7 @@
 
 | 기간 | 내용 |
 |:---:|:---|
-| `2026.08 - 2026.09` | 포트폴리오 기반 AI 주식 투자 어시스턴트, **['FINCH'](https://finchapp.org/) [Github](https://github.com/Team-FINCH)** `(Design / FE)` |
+| `2026.08 - 2026.09` | 포트폴리오 기반 AI 주식 투자 어시스턴트, **['FINCH'](https://finchapp.org/) [Github](https://github.com/Team-FINCH/finch-frontend)** `(Design / FE)` |
 | `2026.07 – 2026.08` | AR 원격 하자 검수로 임대차 분쟁을 예방하는 월세 관리 서비스, **['방긋'](https://www.banggoot.com/) [Github](https://github.com/a205-banggoot/banggoot-public)**  `(Design / FE)` |
 | `2026.05 – 2026.06` | 사회초년생을 위한 예·적금 추천 서비스, **['OURWISH'](https://our-wish.site/) [Github](https://github.com/Our-Wish/ourwish)** `(Design / FE)` |
 | `2026.01 – 2026.07` | 신촌·홍대 카공 카페 큐레이션 서비스, **['Boogle'](https://boogle.my) [Github](https://github.com/CafeBoogle/boogle-frontend)** `(Design / FE)` |
