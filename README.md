@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=220&section=header&text=seojin%27s%20github&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer&descAlignY=62&descSize=16" />
@@ -34,31 +35,28 @@
 
 <br/>
 
-
 ## 🚀 Projects
 
 <div align="center">
 
 | 기간 | 내용 |
 |:---:|:---|
-| `2026.10 - 2026.11` | 흩어진 뉴스를 타임라인과 마인드맵으로 한눈에 보는 AI 플랫폼, **['NEWLEARN'](https://newlearn.io.kr/)** `(Design / FE)` |
+| `2026.10 - 2026.11` | 흩어진 뉴스를 타임라인과 마인드맵으로 한눈에 보는 AI 플랫폼, **[NEWLEARN](https://newlearn.io.kr/)** `(Design / FE)` |
 | `2026.10 - 2026.11` | 반려동물의 응급 상황부터 병원 진료까지 연결하는 차량용 서비스, **[멍쾌(MeongCare)](https://github.com/Hyundai2026/meongcare-hmg-challenge)** `(Design / App Dev)` |
-| `2026.08 - 2026.09` | 포트폴리오 기반 AI 주식 투자 어시스턴트, **['FINCH'](https://finchapp.org/) [Github](https://github.com/Team-FINCH/finch-frontend)** `(Design / FE)` |
-| `2026.07 – 2026.08` | AR 원격 하자 검수로 임대차 분쟁을 예방하는 월세 관리 서비스, **['방긋'](https://www.banggoot.com/) [Github](https://github.com/a205-banggoot/banggoot-public)**  `(Design / FE)` |
-| `2026.05 – 2026.06` | 사회초년생을 위한 예·적금 추천 서비스, **['OURWISH'](https://our-wish.site/) [Github](https://github.com/Our-Wish/ourwish)** `(Design / FE)` |
-| `2026.01 – 2026.07` | 신촌·홍대 카공 카페 큐레이션 서비스, **['Boogle'](https://boogle.my) [Github](https://github.com/CafeBoogle/boogle-frontend)** `(Design / FE)` |
-| `2025.09 – 2025.11` | LG webOS 기반 가족 소통 서비스, **'Moa' [Github](https://github.com/xxj15/moa-showcase)** `(Design / FE)` |
-| `2025.04 – 2025.10` | PR 기반 질문 생성 개발자 회고 서비스, **'DevOops' [Github](https://github.com/mash-up-kr/devoops-web)** `(FE)` |
-| `2024.09 – 2025.09` | 생성형 AI 기반 문해력 향상 학습 서비스, **'MoonSunPower' [Github](https://github.com/xxj15/msp-frontend)** `(Design / FE)` |
-| `2021.01 – 2021.02` | 서강대학교 부동산 금융 학회 사이트, **'RECS'** `(Design / FE)` |
-| `2020.07 – 2020.12` | 위치 기반 도서 공유 서비스, **'책화점'** `(Design / FE)` |
-| `2026.08 - 2026.08` | 매일 금융 상식과 주요 경제 이슈를 학습하는 데일리 브리핑 서비스, **['DailyTick'](https://dailyticknews.vercel.app/)** `개인프로젝트` |
-
+| `2026.08 - 2026.09` | 포트폴리오 기반 AI 주식 투자 어시스턴트, **[FINCH](https://finchapp.org/) · [GitHub](https://github.com/Team-FINCH/finch-frontend)** `(Design / FE)` |
+| `2026.07 – 2026.08` | AR 원격 하자 검수로 임대차 분쟁을 예방하는 월세 관리 서비스, **[방긋](https://www.banggoot.com/) · [GitHub](https://github.com/a205-banggoot/banggoot-public)** `(Design / FE)` |
+| `2026.05 – 2026.06` | 사회초년생을 위한 예·적금 추천 서비스, **[OURWISH](https://our-wish.site/) · [GitHub](https://github.com/Our-Wish/ourwish)** `(Design / FE)` |
+| `2026.01 – 2026.07` | 신촌·홍대 카공 카페 큐레이션 서비스, **[Boogle](https://boogle.my) · [GitHub](https://github.com/CafeBoogle/boogle-frontend)** `(Design / FE)` |
+| `2025.09 – 2025.11` | LG webOS 기반 가족 소통 서비스, **MOA · [GitHub](https://github.com/xxj15/moa-showcase)** `(Design / FE)` |
+| `2025.04 – 2025.10` | PR 기반 질문 생성 개발자 회고 서비스, **DevOops · [GitHub](https://github.com/mash-up-kr/devoops-web)** `(FE)` |
+| `2024.09 – 2025.09` | 생성형 AI 기반 문해력 향상 학습 서비스, **MoonSunPower · [GitHub](https://github.com/xxj15/msp-frontend)** `(Design / FE)` |
+| `2021.01 – 2021.02` | 서강대학교 부동산 금융 학회 사이트, **RECS** `(Design / FE)` |
+| `2020.07 – 2020.12` | 위치 기반 도서 공유 서비스, **책화점** `(Design / FE)` |
+| `2026.08 - 2026.08` | 매일 금융 상식과 주요 경제 이슈를 학습하는 데일리 브리핑 서비스, **[DailyTick](https://dailyticknews.vercel.app/)** `개인프로젝트` |
 
 </div>
 
 <br/>
-
 
 ## 🏆 Awards
 
@@ -90,21 +88,30 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinia-F7D336?style=for-the-badge&logo=pinia&logoColor=black" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white" />
 </p>
 
 ### App & Platform
 
 <p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Automotive_OS-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pleos_SDK-334155?style=for-the-badge&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <br/>
+  <img src="https://img.shields.io/badge/webOS-A50034?style=for-the-badge&logo=lg&logoColor=white" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### Backend & Data
@@ -114,6 +121,19 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### Testing & Quality
+
+<p>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ### Design & Collaboration
@@ -140,8 +160,6 @@
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=100&section=footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=100&section=footer" />
 
 </div>
